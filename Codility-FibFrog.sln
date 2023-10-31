@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-FibFrog", "Codility-FibFrog\Codility-FibFrog.csproj", "{4B0A2A6C-8AF2-4F4B-8ED3-64521F7A84F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-FibFrogTests", "Codility-FibFrogTests\Codility-FibFrogTests.csproj", "{8840AB02-1D78-4879-A716-C383C9BFE171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0A2A6C-8AF2-4F4B-8ED3-64521F7A84F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0A2A6C-8AF2-4F4B-8ED3-64521F7A84F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0A2A6C-8AF2-4F4B-8ED3-64521F7A84F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0A2A6C-8AF2-4F4B-8ED3-64521F7A84F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8840AB02-1D78-4879-A716-C383C9BFE171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8840AB02-1D78-4879-A716-C383C9BFE171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8840AB02-1D78-4879-A716-C383C9BFE171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8840AB02-1D78-4879-A716-C383C9BFE171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1427B1ED-4254-4F8A-A3FE-C709C69B22C5}
+	EndGlobalSection
+EndGlobal
